@@ -28,23 +28,21 @@ input{
     }
 body{
     background-image: url("pexels-ithalu-dominguez-907485.jpg");
-   
     background-repeat: no-repeat;
    
 }
-@media only screen and (min-width:525px) and (max-width:720px){
-    .container{
- 
- width: 525px;
- height: 450px;
-font-size: 20px;   
+@media only screen and (min-width:400px) and (max-width:499px){
+.container{
+ width: 400px;
+ height: 400px;
+font-size: 30px;   
 top:17vh;
 }
 input{
 width: 230px;
 }}
 
-@media only screen and (min-width:280px) and (max-width:525px){
+@media only screen and (min-width:280px) and (max-width:399px){
     .container{
  width: 280px;
  height: 450px;
