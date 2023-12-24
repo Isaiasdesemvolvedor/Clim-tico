@@ -27,7 +27,8 @@
     body{
         background-image: url("pexels-ithalu-dominguez-907485.jpg");
         background-repeat: no-repeat;
-       
+        background-size: cover;
+        height: 100vh;
     }
     @media only screen and (min-width:415px) and (max-width:515px){
     .container{
